@@ -17,9 +17,9 @@ An excellent graduate in Global Information Technology, with 2 years of experien
 
 ## Publications and Projects
 
-- Trong Huy Nguyen, Thanh Huong Le and Que Nhu Tran (2025). Towards Improving Low-Resource Machine Translation with Lightweight Training and Synthetic Data: Case Study of Vietnamese - Khmer. The 39th Pacific Asia Conference on Language, Information and Computation. https://aclanthology.org/2025.paclic-1.4/
-- Thi-Thuy-Duong Trinh, Ngoc-Hai Truong*, Trong-Huy Nguyen and Thanh-Huong Le* (2025). Contrastive Preference Optimization for Low-Resource Vietnamese to Khmer Neural Machine Translation. SOICT’25: Proceedings of the 14th International Symposium on Information and Communication Technology. [Proceedings Incoming]
-- Tho Tran Duc; Huy Nguyen Trong; Huong Le Thanh (2024). Improving Quality of Vietnamese to Khmer Neural Machine Translation Using Multi-stage Fine-Tuning Strategy. SOICT ’24: Proceedings of the 13th International Symposium on Information and Communication Technology. doi.org/10.1007/978-981-96-4288-5_6
+- **Trong Huy Nguyen**, Thanh Huong Le and Que Nhu Tran (2025). Towards Improving Low-Resource Machine Translation with Lightweight Training and Synthetic Data: Case Study of Vietnamese - Khmer. The 39th Pacific Asia Conference on Language, Information and Computation. https://aclanthology.org/2025.paclic-1.4/
+- Thi-Thuy-Duong Trinh, Ngoc-Hai Truong*, **Trong-Huy Nguyen** and Thanh-Huong Le* (2025). Contrastive Preference Optimization for Low-Resource Vietnamese to Khmer Neural Machine Translation. SOICT’25: Proceedings of the 14th International Symposium on Information and Communication Technology. [Proceedings Incoming]
+- Tho Tran Duc; **Huy Nguyen Trong**; Huong Le Thanh (2024). Improving Quality of Vietnamese to Khmer Neural Machine Translation Using Multi-stage Fine-Tuning Strategy. SOICT ’24: Proceedings of the 13th International Symposium on Information and Communication Technology. doi.org/10.1007/978-981-96-4288-5_6
 
 ## Experience
 
